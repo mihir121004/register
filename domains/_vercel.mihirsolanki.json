@@ -1,8 +1,9 @@
 {
-  "owner": {
-    "username": "mihir121004"
-  },
-  "records": {
-    "TXT": "vc-domain-verify=mihirsolanki.is-a.dev,369eb3abbea6cece631c"
-  }
+    "owner": {
+        "username": "mihir121004",
+        "email": "solankimihir1210@gmail.com"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=mihirsolanki.is-a.dev,369eb3abbea6cece631c"
+    }
 }

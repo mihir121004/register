@@ -1,8 +1,9 @@
 {
-  "owner": {
-    "username": "mihir121004"
-  },
-  "records": {
-    "CNAME": "cname.vercel-dns.com"
-  }
+    "owner": {
+        "username": "mihir121004",
+        "email": "solankimihir1210@gmail.com"
+    },
+    "records": {
+        "A": ["216.198.79.1"]
+    }
 }
